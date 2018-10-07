@@ -6,5 +6,3 @@ def first_hack(request):
     return HttpResponse("<h1>This is first hacking program.</h1>")
 
 
-def second_hack(request):
-    return HttpResponse("<h1>Welcome</h1>")
